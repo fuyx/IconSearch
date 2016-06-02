@@ -2,29 +2,6 @@
 #####[Icon Search](www.cs.nyu.edu/~yf899/cgi-bin/wse/project/search.cgi) is a specialized image search engine to search icons.  
 <br>
 ##Geting Started
-First, make sure you are in one of the following server:
-(for CPU and memory intensive processes)
-Hostname	
-crunchy1.cims.nyu.edu	
-crunchy3.cims.nyu.edu	
-crunchy4.cims.nyu.edu	
-crunchy5.cims.nyu.edu	
-crunchy6.cims.nyu.edu	
-
-Then, make sure all of the following jar files are in ./lib and ./lire directories.
-├── lib
-│   ├── commons-io-2.4.jar
-│   ├── jsoup-1.9.1.jar
-│   ├── jsoup-1.9.1-javadoc.jar
-│   ├── jsoup-1.9.1-sources.jar
-│   ├── lucene-analyzers-common-5.2.1.jar
-│   ├── lucene-analyzers-common-5.4.1.jar
-│   ├── lucene-core-5.2.1.jar
-│   ├── lucene-core-5.4.1.jar
-│   └── lucene-queryparser-5.4.1.jar
-├── lire
-│   └── lire.jar
-
 
 There are 5 java file here:
 crawler.java
